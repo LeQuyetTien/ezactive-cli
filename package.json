@@ -1,0 +1,18 @@
+{
+  "name": "@ezactive/cli",
+  "version": "0.0.1",
+  "description": "EZ Active CLI",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ezactive",
+    "cli"
+  ],
+  "author": "Le Quyet Tien",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^7.1.0"
+  }
+}
