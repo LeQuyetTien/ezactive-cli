@@ -4,11 +4,11 @@ const program = require('commander');
 program.version('0.0.1');
 
 // Description
-program.description('The EZ Active command line interface (CLI)');
+program.description('The EZ Active VN command line interface (CLI)');
 
 program.parse(process.argv);
 
 // Show help if no command was executed
 if (program.args.length === 0) {
-  console.log('Welcome to EZ Active CLI!');
+  console.log('Welcome to EZ Active VN CLI!');
 }

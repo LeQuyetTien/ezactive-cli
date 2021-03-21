@@ -1,15 +1,16 @@
 {
-  "name": "@ezactive/cli",
+  "name": "@ezactivevn/cli",
   "version": "0.0.1",
-  "description": "EZ Active CLI",
+  "description": "EZ Active VN CLI",
   "main": "cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "ezactive",
+    "ezactivevn",
     "cli"
   ],
+  "repository": "git://github.com/ezactivevn/ezactivevn-cli.git",
   "author": "Le Quyet Tien",
   "license": "ISC",
   "dependencies": {
